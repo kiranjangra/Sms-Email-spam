@@ -2,7 +2,7 @@
             The model leverages natural language processing (NLP) techniques and supervised learning algorithms to accurately detect unwanted messages, providing a 
             reliable tool for filtering and managing digital communications.
 
-* Steps for Model Development:
+* Steps:
     - Data Preprocessing: Cleans and preprocesses text data, including tokenization, stopword removal, and stemming.
     - Feature Extraction: Utilizes techniques such as TF-IDF (Term Frequency-Inverse Document Frequency) to convert text into numerical features suitable for machine 
                           learning.
